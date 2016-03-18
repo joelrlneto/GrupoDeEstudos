@@ -13,11 +13,11 @@ Repositório para material produzido no Grupo de Estudos RNet 2016.
         <td>Introdução ao .NET, C# e Visual Studio</td>
     </tr>
     <tr>
-        <td>2/4/2016</td>
+        <td>02/4/2016</td>
         <td>Programação Orientada a Objetos</td>
     </tr>
     <tr>
-        <td>7/5/2016</td>
+        <td>07/5/2016</td>
         <td>Desenvolvimento desktop com WPF</td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@ Repositório para material produzido no Grupo de Estudos RNet 2016.
         <td>Arquitetura de serviços com Web API</td>
     </tr>
     <tr>
-        <td>25/3/2016</td>
+        <td>25/6/2016</td>
         <td>Padrões de projeto, SOLID e Clean Code</td>
     </tr>
 </table>
