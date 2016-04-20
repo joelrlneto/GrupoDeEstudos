@@ -50,6 +50,9 @@ Repositório para material produzido no Grupo de Estudos RNet 2016.
     </tr>
 </table>
 
+| Data       | Tema                                              | Formato |
+| ---------- | ------------------------------------------------- | ------- |
+| 23/04/2016 | Exercícios de Programação Orientada a Objetos     | Online  |
 # Localização
 
 UnP - Unidade Nascimento de Castro - Prédio I
