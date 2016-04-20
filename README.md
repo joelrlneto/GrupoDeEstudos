@@ -13,8 +13,20 @@ Repositório para material produzido no Grupo de Estudos RNet 2016.
         <td>Introdução ao .NET, C# e Visual Studio</td>
     </tr>
     <tr>
+        <td>26/3/2016</td>
+        <td>Resolução de lista de exercícios de C# (online)</td>
+    </tr>    
+    <tr>
         <td>02/4/2016</td>
         <td>Programação Orientada a Objetos</td>
+    </tr>
+    <tr>
+        <td>23/4/2016</td>
+        <td>Tema a combinar (online)</td>
+    </tr>
+    <tr>
+        <td>30/4/2016</td>
+        <td>Tema a combinar (online)</td>
     </tr>
     <tr>
         <td>07/5/2016</td>
@@ -44,4 +56,4 @@ UnP - Unidade Nascimento de Castro - Prédio I
 
 Av. Nascimento de Castro, esquina com Av. Jaguarari.
 
-Laboratórios E04 ou F02.
+Laboratório I05.
