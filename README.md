@@ -10,7 +10,7 @@ Repositório para material produzido no Grupo de Estudos RNet 2016.
 | 02/04/2016 | Introdução à Programação Orientada a Objetos                                     | Presencial |
 | 09/04/2016 | Evento: [AQUECE Microsoft Tech Camp 16](https://ctmsrn.com/Home/Event/Details/2) | Presencial |
 | 16/04/2016 | Evento: [Global Azure Bootcamp](https://ctmsrn.com/Home/Event/Details/3)         | Presencial | 
-| 23/04/2016 | Exercícios de Programação Orientada a Objetos                                    | Online     |
+| 23/04/2016 | [Exercícios de Programação Orientada a Objetos](https://youtu.be/KHg3gRn1G_c)    | Online     |
 | 30/04/2016 | Trabalhando com coleções de dados                                                | Online     |
 | 07/05/2016 | Introdução ao desenvolvimento desktop com WPF                                    | Presencial |
 | 14/05/2016 | Prática de desenvolvimento desktop com WPF                                       | Presencial |
