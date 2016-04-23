@@ -11,7 +11,7 @@ Lista de Exercícios de C#
 
 **5.** Altere o código do programa contido na pasta [4. 23042016/ExercicioPOO/](https://github.com/joelrlneto/GrupoDeEstudos/tree/master/4.%2023042016/ExercicioPOO) e adicione um construtor sobrecarregado em cada classe para simplificar a instanciação dos objetos e reduzir o código da classe Program. Por exemplo, ao invés do seguinte código:
 
-`
+```C#
 Aluno a1 = new Aluno();
 
 a1.Matricula = "001";
@@ -19,13 +19,13 @@ a1.Matricula = "001";
 a1.Nome = "Joel";
 
 a1.Periodo = "2016.1";
-`
+```
 
 deve ser possível usar a seguinte estrutura:
 
-`
+```C#
 Aluno a1 = new Aluno("001", "Joel", "2016.1");
-`
+```
 
 **.6** Altere o código do programa contido na pasta [4. 23042016/ExercicioPOO/](https://github.com/joelrlneto/GrupoDeEstudos/tree/master/4.%2023042016/ExercicioPOO) e crie um *enum* para substituir o string na propriedade Tipo do curso. O enum deve ser chamar `TipoCurso` e deve ser possível utilizá-lo da seguinte forma:
 
