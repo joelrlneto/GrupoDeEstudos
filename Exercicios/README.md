@@ -13,8 +13,11 @@ Lista de Exercícios de C#
 
 `
 Aluno a1 = new Aluno();
+
 a1.Matricula = "001";
+
 a1.Nome = "Joel";
+
 a1.Periodo = "2016.1";
 `
 
