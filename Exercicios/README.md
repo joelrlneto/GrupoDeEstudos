@@ -27,6 +27,6 @@ deve ser possível usar a seguinte estrutura:
 Aluno a1 = new Aluno("001", "Joel", "2016.1");
 ```
 
-**.6** Altere o código do programa contido na pasta [4. 23042016/ExercicioPOO/](https://github.com/joelrlneto/GrupoDeEstudos/tree/master/4.%2023042016/ExercicioPOO) e crie um *enum* para substituir o string na propriedade Tipo do curso. O enum deve ser chamar `TipoCurso` e deve ser possível utilizá-lo da seguinte forma:
+**6.** Altere o código do programa contido na pasta [4. 23042016/ExercicioPOO/](https://github.com/joelrlneto/GrupoDeEstudos/tree/master/4.%2023042016/ExercicioPOO) e crie um *enum* para substituir o string na propriedade Tipo do curso. O enum deve ser chamar `TipoCurso` e deve ser possível utilizá-lo da seguinte forma:
 
 `curso1.Tipo = TipoCurso.Bacharelado`
