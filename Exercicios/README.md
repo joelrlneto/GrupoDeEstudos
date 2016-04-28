@@ -56,6 +56,6 @@ Atenção aos detalhes da impressão:
 - A coluna Salário deve conter o símbolo R$ fixo e o valor deve estar formatado sempre com 7 caracteres;
 - A coluna Setor deve estar formatada sempre com 20 caracteres.
 
-* Dica 1: Quando o texto for menor que o tamanho da coluna, para manter a formatação, você pode preencher imprimir o valor preenchido com espaços em branco à direita (Matricula, Nome e Setor) ou à esquerda (Salário). *
+Dica 1: *Quando o texto for menor que o tamanho da coluna, para manter a formatação, você pode preencher imprimir o valor preenchido com espaços em branco à direita (Matricula, Nome e Setor) ou à esquerda (Salário). *
 
-* Dica 2: A classe String contém métodos para fazer as operações de cortar o texto e preencher à direita ou esquerda. Pesquise quais você deverá utilizar. *
+Dica 2: *A classe String contém métodos para fazer as operações de cortar o texto e preencher à direita ou esquerda. Pesquise quais você deverá utilizar. *
