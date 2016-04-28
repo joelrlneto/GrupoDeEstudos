@@ -48,10 +48,13 @@ A classe Funcionario agora deve atender os seguintes requisitos:
 - O salário não pode ser superior a 99999.99;
 - O setor não pode conter mais de 20 caracteres.
 
+Para as propriedades do tipo texto, caso o valor atribuído a elas exceda o comprimento máximo, a classe deverá cortar o texto informado, mantendo apenas a quantidade permitida (descartando o excesso do final). Já para a propriedade Salário, se o valor informado exceder o máximo permitido, a classe deverá utilizar apenas o valor limite descrito acima.
+
 Atenção aos detalhes da impressão:
 - A coluna Matrícula deve estar formatada sempre com 10 caracteres; 
 - A coluna Nome deve estar formatada sempre com 30 caracteres;
-- A coluna Salário deve conter o símbolo R$ fixo e o valor deve estar formatado sempre com 7 caracters;
+- A coluna Salário deve conter o símbolo R$ fixo e o valor deve estar formatado sempre com 7 caracteres;
 - A coluna Setor deve estar formatada sempre com 20 caracteres.
 
-* Dica: Quando o texto for menor que o tamanho da coluna, para manter a formatação, você pode preencher imprimir o valor preenchido com espaços em branco à direita (Matricula, Nome e Setor) ou à esquerda (Salário). *
+* Dica 1: Quando o texto for menor que o tamanho da coluna, para manter a formatação, você pode preencher imprimir o valor preenchido com espaços em branco à direita (Matricula, Nome e Setor) ou à esquerda (Salário). *
+* Dica 2: A classe String contém métodos para fazer as operações de cortar o texto e preencher à direita ou esquerda. Pesquise quais você deverá utilizar. *
