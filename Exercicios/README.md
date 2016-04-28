@@ -75,3 +75,5 @@ Dica 2: *A classe String contém métodos para fazer as operações de cortar o 
 | Extensão      | Ext.       |
 ------------------------------
 ```
+
+Dica: *A classe genérica `Dictionary` pode ser útil nessa questão.*
