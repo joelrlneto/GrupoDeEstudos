@@ -31,7 +31,7 @@ Aluno a1 = new Aluno("001", "Joel", "2016.1");
 
 `curso1.Tipo = TipoCurso.Bacharelado`
 
-**7** Altere o programa do Exercício 3 para criar não apenas um funcionário, mas uma lista (*List*) com vários objetos desse tipo e imprima seus dados no seguinte formato:
+**7.** Altere o programa do Exercício 3 para criar não apenas um funcionário, mas uma lista (*List*) com vários objetos desse tipo e imprima seus dados no seguinte formato:
 ```
                                LISTA DE FUNCIONÁRIOS
 ------------------------------------------------------------------------------------
@@ -59,3 +59,19 @@ Atenção aos detalhes da impressão:
 Dica 1: *Quando o texto for menor que o tamanho da coluna, para manter a formatação, você pode preencher imprimir o valor preenchido com espaços em branco à direita (Matricula, Nome e Setor) ou à esquerda (Salário).*
 
 Dica 2: *A classe String contém métodos para fazer as operações de cortar o texto e preencher à direita ou esquerda. Pesquise quais você deverá utilizar.*
+
+**8.** Altere o programa do Exercício 7 para que agora o setor também seja modelado como uma classe e não mais um string. A classe Setor deve possuir um recurso especial que lhe permitirá abreviar alguns termos comuns utilizados nos nomes dos setores. Por exemplo, se for atribuído o nome "Departamento de Pesquisa" ao setor, este texto deve ser alterado para "Depto. de Pesq.". Utilize a seguinte tabela para fazer as substituições e, caso queira, adicione novos termos.
+
+```
+------------------------------
+| Termo         | Abreviação |
+------------------------------
+| Departamento  | Depto.     |
+| Secretaria    | Sec.       |
+| Coordenação   | Coord.     |
+| Gerência      | Ger.       |
+| Administração | Adm.       |
+| Pesquisa      | Pesq.      |
+| Extensão      | Ext.       |
+------------------------------
+```
