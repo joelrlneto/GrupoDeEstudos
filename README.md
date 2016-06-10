@@ -14,8 +14,7 @@ Repositório para material produzido no Grupo de Estudos RNet 2016.
 | 14/05/2016 | Introdução ao desenvolvimento desktop com WPF                                    | Presencial |
 | 21/05/2016 | Prática de desenvolvimento desktop com WPF                                       | Presencial |
 | 28/05/2016 | Coleções de dados e LINQ                                                         | Presencial |
-| 11/06/2016 | Introdução à programação com acesso a bancos de dados                            | Presencial |
-| 25/06/2016 | Programação avançada com bancos de dados                                         | Presencial |
+| 18/06/2016 | Introdução ao desenvolvimento web com ASP.NET MVC                                | Presencial |
 
 # Localização
 
